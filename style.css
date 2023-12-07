@@ -27,7 +27,6 @@ body {
 }
 
 .header {
-    width: 100vw;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -63,6 +62,7 @@ body {
 
 .main {
     text-align: center;
+    overflow: hidden;
 }
 
 .cards {
